@@ -1,4 +1,4 @@
-# 💼 QA Portfolio by [Alona Kostemska]
+# 💼 QA Portfolio by Alona Kostemska
 
 Welcome to my QA portfolio, where I showcase my skills and projects in software testing, both manual and automated.
 
@@ -23,5 +23,5 @@ I am passionate about quality assurance and eager to build my career in software
 
 Feel free to explore the folders and reach out if you want to collaborate or have questions!
 
-[www.linkedin.com/in/alona-kostemska]
+www.linkedin.com/in/alona-kostemska
 
